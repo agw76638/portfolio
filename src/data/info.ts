@@ -2,11 +2,11 @@ export const info = {
   baseUrl: 'https://ahndev.com',
   name: 'Gunnwook Ahn',
   jobDescription: 'Web Developer',
-  about: `I'm a web developer based in South Korea.
-   I enjoy creating stuff.
-   I specialize in HTML, CSS, JavaScript, and I’m exploring the JAMStack to expand my skill set.
-  `,
-
+  about: `I specialize in HTML, CSS, and Javascript, building fast, responsive, and interactive websites with clean, maintainable code.<br><br>
+  <strong>What I Do</strong><br>
+✅ Front-End Development – Creating modern, user-friendly web experiences.<br>
+✅ API Integration – Bringing dynamic data to life.<br><br>
+If you’re looking for a custom, high-performance website or web app, let’s build something great together!`,
   experience: [
     {
       name: 'Fiverr',
@@ -30,7 +30,7 @@ export const info = {
   socialMedia: {
     //twitter: "https://twitter.com/Uzzii_21",
     github: 'https://github.com/agw76638',
-    email: 'agw76638@protonmail.com',
+    email: 'gunnwook@ahndev.com',
     linkedin: 'https://www.linkedin.com/in/gunnwook-ahn-5401bb355/',
     fiverr: 'https://www.fiverr.com/qozf5a?source=gig_page',
   },
