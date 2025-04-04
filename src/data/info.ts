@@ -43,5 +43,26 @@ If you’re looking for a custom, high-performance website or web app, let’s b
       githubUrl: 'https://github.com/agw76638/apod-app',
       liveUrl: 'https://main--classy-donut-e4ee4c.netlify.app/',
     },
+    {
+      title: 'clipboard-website',
+      isFeatured: true,
+      thumbnail: '/assets/images/clipboard.png',
+      githubUrl: 'https://github.com/agw76638/clipboard-website',
+      liveUrl: 'https://luxury-stroopwafel-40b98a.netlify.app/',
+    },
+    {
+      title: 'tutor-website',
+      isFeatured: true,
+      thumbnail: '/assets/images/tutor.png',
+      githubUrl: 'https://github.com/agw76638/tutor-website',
+      liveUrl: 'https://tutor-website-topaz.vercel.app',
+    },
+    {
+      title: 'asteroid-tracker',
+      isFeatured: true,
+      thumbnail: '/assets/images/asteroid.png',
+      githubUrl: 'https://github.com/agw76638/asteroid-tracker',
+      liveUrl: 'https://benevolent-pastelito-ede68c.netlify.app/',
+    },
   ],
 };
