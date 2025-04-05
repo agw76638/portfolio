@@ -1,6 +1,8 @@
 ---
 import { IMetaHead } from "@types";
 import { info } from "@data";
+import { inject } from '@vercel/analytics';
+inject();
 
 const { title, description, ogImageUrl } = Astro.props as IMetaHead;
 ---
